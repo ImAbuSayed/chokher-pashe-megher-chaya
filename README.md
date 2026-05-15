@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chokher-pashe-megher-chaya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Chokher Pashe Megher Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chokher-pashe-megher-chaya/) |
+| **Get License** | [Official Music Licensing for Chokher Pashe Megher Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chokher-pashe-megher-chaya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> চোখের পাশে মেঘের ছায়া, প্রেমের চেনা ঘোর
+> মাতাল করা অন্ধকারে, আসবে কি আর ভোর
+> বুকের ভেতর জ্বলছে আগুন, নেশায় কাঁপে মন
+> হৃদয় জুড়ে তুমিই আছো, আমার সারাক্ষণ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
