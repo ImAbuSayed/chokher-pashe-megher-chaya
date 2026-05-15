@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chokher Pashe Megher Chaya
+
+This log tracks the cryptographic history and versioning for the song **Chokher Pashe Megher Chaya** (chokher-pashe-megher-chaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T04:32:14.190516 | `v1` | `e274df8510e87501e6a93a34c84b7ba826d9a9c38219f7f6ccf83b2903bc14d2` | `ec9f1a1f7fedab553c54cc148b582c48418db02d8daa88b66dd37d1f3fab674e` | `2026-05-16_chokher-pashe-megher-chaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

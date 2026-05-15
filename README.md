@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chokher-pashe-megher-chaya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Chokher Pashe Megher Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chokher-pashe-megher-chaya/) |
+| **Get License** | [Get a Licensing Quote for Chokher Pashe Megher Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chokher-pashe-megher-chaya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e274df8510e87501e6a93a34c84b7ba826d9a9c38219f7f6ccf83b2903bc14d2` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
